@@ -1,0 +1,9 @@
+﻿{
+    "name": "challenge-rot13",
+    "author": "Givery Inc.",
+    "main": "app.js",
+    "devDependencies": {
+        "api-first-spec": "^0.1.7",
+        "chai": "^2.2.0"
+    }
+}
