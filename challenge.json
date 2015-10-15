@@ -4,7 +4,8 @@
     ],
     "excludes": [
         ".gitignore",
-        "challenge.json"
+        "challenge.json",
+        "src/ROT13HiddenTest.cs"
     ],
     "test": "nunit-console target/Rot13Challenge.dll"
 }
