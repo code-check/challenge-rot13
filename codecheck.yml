@@ -1,0 +1,3 @@
+﻿build:
+  - mcs src/*.cs -reference:nunit.framework.dll -target:library -out:target/Rot13Challenge.dll
+test: nunit-console target/Rot13Challenge.dll

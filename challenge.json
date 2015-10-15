@@ -1,0 +1,10 @@
+﻿{
+    "editable": [
+        "src/ROT13.cs"
+    ],
+    "excludes": [
+        ".gitignore",
+        "challenge.json"
+    ],
+    "test": "nunit-console target/Rot13Challenge.dll"
+}
