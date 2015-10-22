@@ -1,0 +1,3 @@
+﻿build:
+  - xbuild /tv:4.0 /p:Configuration=Release challenge-rot13.sln
+test: nunit-console -framework=4.0 target/challenge_rot13.dll

@@ -1,0 +1,11 @@
+﻿{
+    "editable": [
+        "ROT13.vb"
+    ],
+    "excludes": [
+        ".gitignore",
+        "challenge.json",
+        "ROT13HiddenTest.vb"
+    ],
+    "test": "nunit-console -framework=4.0 target/challenge_rot13.dll"
+}
