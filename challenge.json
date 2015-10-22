@@ -1,0 +1,11 @@
+{
+  "editable": [
+    "src/main/scala/ROT13.scala"
+  ],
+  "excludes": [
+    ".gitignore",
+    "challenge.json",
+    "ROT13HiddenTest.scala"
+  ],
+  "test": "sbt test"
+}
