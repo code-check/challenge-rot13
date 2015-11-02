@@ -1,0 +1,11 @@
+{
+  "editable": [
+    "rot13.py"
+  ],
+  "excludes": [
+    "testrot13hidden.py",
+    "challenge.json",
+    ".gitignore"
+  ],
+  "test": "nosetests *.py"
+}
