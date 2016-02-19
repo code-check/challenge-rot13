@@ -1,4 +1,9 @@
 ﻿{
+    "tags": [
+        "VisualBasic",
+        "Algorithm",
+        "Cipher"
+    ],
     "editable": [
         "ROT13.vb"
     ],
