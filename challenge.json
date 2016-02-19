@@ -1,4 +1,9 @@
 {
+  "tags": [
+    "Scala",
+    "Algorithm",
+    "Cipher"
+  ],
   "editable": [
     "src/main/scala/ROT13.scala"
   ],
