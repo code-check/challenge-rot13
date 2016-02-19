@@ -1,4 +1,9 @@
 {
+  "tags": [
+    "Python",
+    "Algorithm",
+    "Cipher"
+  ],
   "editable": [
     "rot13.py"
   ],
