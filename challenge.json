@@ -1,4 +1,9 @@
 ﻿{
+    "tags": [
+        "GoLang",
+        "Algorithm",
+        "Cipher"
+    ],
     "editable": [
         "rot13.go"
     ],
