@@ -1,4 +1,9 @@
 ﻿{
+    "tags": [
+        "JavaScript",
+        "Algorithm",
+        "Cipher"
+    ],
     "editable": [ 
         "app.js"
     ],
