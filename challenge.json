@@ -1,4 +1,9 @@
 {
+  "tags": [
+    "Java",
+    "Algorithm",
+    "Cipher"
+  ],
   "editable": [
     "src/main/java/*"
   ],
