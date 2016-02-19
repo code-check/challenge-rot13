@@ -1,4 +1,9 @@
 ﻿{
+    "tags": [
+        "C#",
+        "Algorithm",
+        "Cipher"
+    ]
     "editable": [
         "src/ROT13.cs"
     ],
