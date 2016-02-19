@@ -1,4 +1,9 @@
 {
+  "tags": [
+    "PHP",
+    "Algorithm",
+    "Cipher"
+  ],
   "editable": [
     "app/*"
   ],
