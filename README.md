@@ -3,11 +3,10 @@
 The goal of this challenge is to implement a simple chipher called **ROT13**.
 
 ## Challenge Detail
-**ROT13** or "rotate by 13 places" works by replacing a character of the Latin alphabet by that which is 13 places away from it. 
-
-If `A` is the 1st character of the alphabet, it will be transformed to the 14th character, which is `N`
-
-Please make sure you also transform capital characters.
+- **ROT13** or "rotate by 13 places" works by replacing a character of the Latin alphabet by that which is 13 places away from it. 
+- If `A` is the 1st character of the alphabet, it will be transformed to the 14th character, which is `N`.
+- Please make sure you also transform capital characters.
+- You should use [filename](filepath) to solve the challenge and can refer tests [here](filepath)
 
 ### Example
 
