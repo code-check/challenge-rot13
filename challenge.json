@@ -2,15 +2,21 @@
   "tags": [
     "PHP",
     "Algorithm",
-    "Cipher"
+    "Cipher",
+    "ROT13"
   ],
   "editable": [
-    "app/*"
+    "app/*",
+    ".gitignore",
+    "answer.md"
   ],
   "excludes": [
-    ".gitignore",
     "challenge.json",
     "hiddenTest.php"
   ],
+  "readme" : {
+    "en" : "README.md"
+  },
+  "main":"app/ROT13.php",  
   "test": "phpunit test"
 }
