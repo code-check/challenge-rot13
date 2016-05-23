@@ -2,15 +2,21 @@
   "tags": [
     "Java",
     "Algorithm",
-    "Cipher"
+    "Cipher",
+    "ROT13"
   ],
   "editable": [
-    "src/main/java/*"
+    "src/main/java/*",
+    ".gitignore",
+    "answer.md"
   ],
   "excludes": [
-    ".gitignore",
     "challenge.json",
     "ROT13HiddenTest.java"
   ],
+  "readme" : {
+    "en" : "README.md"
+  },
+  "main":"src/main/java/ROT13.java",
   "test": "mvn test"
 }
