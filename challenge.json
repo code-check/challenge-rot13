@@ -1,16 +1,22 @@
 {
   "tags": [
-    "Python",
+    "PHP",
     "Algorithm",
-    "Cipher"
+    "Cipher",
+    "ROT13"
   ],
   "editable": [
-    "rot13.py"
+    "rot13.py",
+    ".gitignore",
+    "answer.md"
   ],
   "excludes": [
     "testrot13hidden.py",
-    "challenge.json",
-    ".gitignore"
+    "challenge.json"
   ],
-  "test": "nosetests *.py"
+  "readme" : {
+    "en" : "README.md"
+  },
+  "main":"rot13.py",  
+  "test": "nosetests"
 }

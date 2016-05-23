@@ -6,7 +6,7 @@ The goal of this challenge is to implement a simple chipher called **ROT13**.
 - **ROT13** or "rotate by 13 places" works by replacing a character of the Latin alphabet by that which is 13 places away from it. 
 - If `A` is the 1st character of the alphabet, it will be transformed to the 14th character, which is `N`.
 - Please make sure you also transform capital characters.
-- You should use [filename](filepath) to solve the challenge and can refer tests [here](filepath)
+- You should use [rot13.py](rot13.py) to solve the challenge and can refer tests [here](testrot13.py)
 
 ### Example
 
@@ -35,12 +35,18 @@ The goal of this challenge is to implement a simple chipher called **ROT13**.
 
 ### Test Results *before* solving the challenge  
 ```
-Write Test reults before solving challenge
+codecheck: Finish with code 1
+codecheck: tests  : 2
+codecheck: success: 0
+codecheck: failure: 2
 ```
 
 ### Test Results *after* solving the challenge
 ```
-Write Test reults after solving challenge
+codecheck: Finish with code 0
+codecheck: tests  : 2
+codecheck: success: 2
+codecheck: failure: 0
 ```
 --- --- ---
 ## Run Tests
