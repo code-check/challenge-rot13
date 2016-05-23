@@ -2,15 +2,22 @@
     "tags": [
         "JavaScript",
         "Algorithm",
-        "Cipher"
+        "Cipher",
+        "ROT13"
     ],
     "editable": [ 
-        "app.js"
+        "app.js",
+        ".gitignore",
+        "answer.md",
+        "codecheck.yml"
     ],
     "excludes": [
-        ".gitignore",
         "challenge.json",
         "test2.js"
     ],
+    "readme" : {
+        "en" : "README.md"
+    },
+    "main":"app.js",
     "test": "mocha"
 }
