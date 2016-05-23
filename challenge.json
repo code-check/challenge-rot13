@@ -2,15 +2,22 @@
     "tags": [
         "C#",
         "Algorithm",
-        "Cipher"
+        "Cipher",
+        "ROT13"
     ],
     "editable": [
-        "src/ROT13.cs"
+        "src/ROT13.cs",
+        ".gitignore",
+        "answer.md",
+        "codecheck.yml"
     ],
     "excludes": [
-        ".gitignore",
         "challenge.json",
         "src/ROT13HiddenTest.cs"
     ],
+    "readme" : {
+        "en" : "README.md"
+    },
+    "main":"src/ROT13.cs",
     "test": "nunit-console target/Rot13Challenge.dll"
 }
