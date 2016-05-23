@@ -2,14 +2,22 @@
     "tags": [
         "GoLang",
         "Algorithm",
-        "Cipher"
+        "Cipher",
+        "ROT13"
     ],
     "editable": [
-        "rot13.go"
+        "rot13.go",
+        ".gitignore",
+        "answer.md",
+        "codecheck.yml"
     ],
     "excludes": [
         "rot13_hidden_test.go",
         "challenge.json"
     ],
+    "readme" : {
+        "en" : "README.md"
+    },
+    "main":"rot13.go",
     "test": "go test"
 }
