@@ -2,15 +2,21 @@
   "tags": [
     "Scala",
     "Algorithm",
-    "Cipher"
+    "Cipher",
+    "ROT13"
   ],
   "editable": [
-    "src/main/scala/ROT13.scala"
+    "src/main/scala/ROT13.scala",
+    ".gitignore",
+    "answer.md"
   ],
   "excludes": [
-    ".gitignore",
     "challenge.json",
     "ROT13HiddenTest.scala"
   ],
+  "readme" : {
+    "en" : "README.md"
+  },
+  "main": "src/main/scala/ROT13.scala",
   "test": "sbt test"
 }
